@@ -3,7 +3,7 @@ node_modules/
 package-lock.json
 test/dist
 test/input
-test/built.js
+out
 coverage
 .nyc_output
 .cache
