@@ -1,3 +1,4 @@
+require('babel-polyfill');
 const Bundler = require('../');
 const rimraf = require('rimraf');
 const assert = require('assert');
